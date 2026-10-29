@@ -1,0 +1,5 @@
+# 课程配置；名单表头为：学号,姓名
+[[course]]
+name = "示例课程:homework"
+roster = "rosters/example.csv"
+extensions = ["doc", "docx", "pdf", "ppt", "pptx", "xls", "xlsx", "txt", "jpg", "png", "mp4"]
